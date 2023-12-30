@@ -13,7 +13,7 @@ main p{
     border: 2px solid #e2e2e6;
     padding: 5px;
     margin: 5px;
-    font-size: 23px;
+    font-size: 30px;
 }
 img {
     border: 2px solid #ffb9cc;
@@ -22,6 +22,7 @@ img {
 .ggg {
     background-color: #fbdac0;
     border: #ffd9a4;
+    font-size: 35px;
 }
 .txt {
     background-color: #d4dee8;
