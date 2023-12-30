@@ -1,1 +1,39 @@
+h1,h3 {
+    background-color: #d7e8b1;
+    text-align: center;
+    border: 2px solid #e2e2e6;
+    padding: 5px;
+    margin: 10px;
+}
+body {
+    background-color: #f5e3d8;
+}
+main p{
+    background-color: #d4ece8;
+    border: 2px solid #e2e2e6;
+    padding: 5px;
+    margin: 5px;
+    font-size: 23px;
+}
+img {
+    border: 2px solid #ffb9cc;
+    
+}
+.ggg {
+    background-color: #fbdac0;
+    border: #ffd9a4;
+}
+.txt {
+    background-color: #d4dee8;
+    border: 3px solid #e2e2e6;
+    text-transform: uppercase;
+}
 
+img {
+    height: 200px;
+    width: 300px;
+}
+
+.hah{
+    text-align: center;
+}
